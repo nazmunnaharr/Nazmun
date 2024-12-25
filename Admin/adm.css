@@ -1,0 +1,14 @@
+.head
+	{
+	width: cover;
+	height: 620px;
+	border: 5px;
+	padding-top: 5px;
+	padding-left: 12px;
+	}
+
+.table
+	{
+		width: cover;
+		height: 100px;
+	}

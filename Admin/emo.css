@@ -1,0 +1,58 @@
+	.head
+	{
+	width: cover;
+	height: 620px;
+	border: 5px;
+	padding-top: 5px;
+	padding-left: 12px;
+
+	}
+	.first
+	{
+	width: 360px;
+	height: 620px;
+	border: 5px ;
+	float: left;
+	
+	}
+		.snd
+	{
+	 width: 958px;
+	height: 620px;
+	border: 5px;
+	float: left;
+	border-color: lightgreen;
+	}
+
+	.table
+	{
+		height: 100px;
+	}
+	tr
+	{
+		height: 40px;
+	}
+		td
+		{
+			width: 320px;
+			height:50px;
+			border: 1px;
+			border-radius: 5px;
+			padding: 8px 15px 8px 15px;
+			margin: 10px 0px 10px 0px;
+			box-shadow: 2px 1px 2px 1px grey;
+			text-align: center;
+			background-color: yellow;
+
+		}
+			h1
+		{
+			
+			text-align: center;
+			margin-top: 230px;
+			float: left;
+			margin-left: 360px;
+			color: blue;
+		}
+	
+	
